@@ -1,4 +1,6 @@
-# How it works
+# THIS IS PURELY EDUCATIONAL AND SHOULD NOT BE USED IN ANY MALICIOUS WAY
+
+## How it works
 
 There are two options to run the script, option 1 is with a discord bot command, Option 2 is to run it on a timer.
 
